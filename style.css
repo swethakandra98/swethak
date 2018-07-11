@@ -6,7 +6,16 @@ display: flex;
 border: 2px solid black;
 
 }
+table{
+  width:90%;
+}
+td{
+  padding: 2%;
+}
+tr:nth-child(even){
 
+background: #ddd;
+}
 .childone{
  width: 30%;
   border: 2px solid black;

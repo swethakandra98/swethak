@@ -25,5 +25,34 @@
 "institute":"Sri chaitanya techno school",
 "data":["2013-14","93"]
 }
+],
+"skills":[
+{
+  "title":"programming languages",
+  "info":["C","C++","Python","Java","Ruby","R"]
+},
+{
+  "title":"databases",
+  "info":["Oracle","MySql","Sql"]
+},
+{
+  "title":"Operating Systems",
+  "info":["windows","MAC","Unix","Linux"]
+},
+{
+  "title":"Web Technologies",
+  "info":["HTML","CSS","Xml"]
+}
+],
+"Achievements": [
+{
+ "achievedData":"Got 1<sup>st</sup> prize in PPT presentation"
+},
+{
+  "achievedData":"Got 1<sup>st</sup> prize in <strong>Group discussion</strong> "
+},
+{
+  "achievedData":"Got certificate of completion as an intern from paathshala academy,Thane-<strong>[Internshala.com]</strong>"
+}
 ]
 }
