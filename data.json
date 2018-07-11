@@ -1,0 +1,29 @@
+{
+  "details":{
+   "name":"SWETHA KANDRA",
+   "image":"download.jpg",
+   "email":"skswethakandra873@gmail.com",
+   "mobile":"9999999999",
+   "address":"pvp siddhartha"
+ },
+"career":{
+"info":"To pursue a challenging career and be a part of progressive organisation that gives a scope to enhance my knowledge and utilising my skills towards the growth of the  organisation"
+},
+"education":[
+{
+"degree":"B-Tech",
+  "institute":"PVPSIT",
+  "data":["2016-20","79%"]
+},
+{
+"degree":"Intermediate",
+"institute":"Sri chaitanya junior college",
+"data":["2014-16","90%"]
+},
+{
+"degree":"SSC",
+"institute":"Sri chaitanya techno school",
+"data":["2013-14","93"]
+}
+]
+}
